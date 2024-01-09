@@ -20,7 +20,8 @@ function App() {
             <a className="change-button">Change</a>
           </div>
           <button className="proceed-button">Proceed to Payment</button>
-          <button className="cancel-button">Cancel Order</button>
+          <a href="" className="cancel">Cancel Order</a>
+          {/* <button className="cancel-button">Cancel Order</button> */}
         </article>
       </div>
     </main>
